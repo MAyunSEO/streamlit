@@ -1,5 +1,6 @@
 import streamlit as st
 view = [100, 150, 30]
+st.write('마윤서')
 st.write('# Youtube view')
 st.write('## raw')
 view
